@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Entering the postal code character input on the shopping cart as much as 5 digits and can only fill in with numeric input</description>
+   <name>TC30_inpt_pstlCodeCharMore5</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3dea215d-f31c-4ee5-af6a-394af3854e77</testCaseGuid>
+</TestCaseEntity>

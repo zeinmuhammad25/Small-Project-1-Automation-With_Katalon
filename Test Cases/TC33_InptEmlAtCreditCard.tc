@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check the email input field on the credit/debit card page</description>
+   <name>TC33_InptEmlAtCreditCard</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b64ea421-c1fa-47ab-829b-83dfde0ae632</testCaseGuid>
+</TestCaseEntity>

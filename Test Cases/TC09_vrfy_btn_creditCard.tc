@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure that the list content using a credit card is clickable</description>
+   <name>TC09_vrfy_btn_creditCard</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>042a935d-47ee-434a-9517-5a85e1f2f533</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Enter the card number, expiration date and CVV with the problematic credit card</description>
+   <name>TC23_inpt_wrongCardNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9643b95-7c00-42d5-9676-a7fcda3e6799</testCaseGuid>
+</TestCaseEntity>

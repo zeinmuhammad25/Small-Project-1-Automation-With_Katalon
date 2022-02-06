@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checking suggest on input card number</description>
+   <name>TC32_sgsInptCrdNmbr</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4fef50af-8482-4b4b-8379-4a08e71f702e</testCaseGuid>
+</TestCaseEntity>

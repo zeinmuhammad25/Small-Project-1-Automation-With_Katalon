@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Enter input 3 times repeatedly on input credit card number, expire date and vvp</description>
+   <name>TC19_loopInputCardNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3ad471b-0a6c-4778-8c2d-9aa48c0010fd</testCaseGuid>
+</TestCaseEntity>

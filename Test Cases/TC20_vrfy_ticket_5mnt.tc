@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>aiting for ticket verification for 5 minutes</description>
+   <name>TC20_vrfy_ticket_5mnt</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6cbc8772-a101-42d6-91a6-539bb8545d1c</testCaseGuid>
+</TestCaseEntity>

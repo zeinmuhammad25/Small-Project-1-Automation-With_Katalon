@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the entire button back and ensure it will return to the previous frame</description>
+   <name>TC18_vrfy_btn_Back</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6f4e74c-7554-41cf-a170-abe23c9a2cef</testCaseGuid>
+</TestCaseEntity>

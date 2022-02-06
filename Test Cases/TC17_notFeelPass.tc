@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Did not enter email in shopping cart</description>
+   <name>TC17_notFeelPass</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>335ce015-a2fc-4a42-9edb-e0be32d44a02</testCaseGuid>
+</TestCaseEntity>

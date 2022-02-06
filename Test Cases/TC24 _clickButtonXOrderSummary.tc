@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Clicking the X button on the order summary</description>
+   <name>TC24 _clickButtonXOrderSummary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6ac75a2-28e1-496b-bce6-907466161878</testCaseGuid>
+</TestCaseEntity>

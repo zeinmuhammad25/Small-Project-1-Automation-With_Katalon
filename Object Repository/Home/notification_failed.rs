@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>notification_failed</name>
+   <tag></tag>
+   <elementGuidId>959d5519-1d98-486c-a534-b1338dab0c0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-reactid='.0.0.0.2.0.1.0.0:0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-reactid='.0.0.0.2.0.1.0.0:0']</value>
+   </webElementProperties>
+</WebElementEntity>

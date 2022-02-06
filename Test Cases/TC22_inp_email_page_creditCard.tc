@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Enter email on credit/debit card page with wrong character input</description>
+   <name>TC22_inp_email_page_creditCard</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>153d0f90-842c-43a2-a85a-0b4a838afeb7</testCaseGuid>
+</TestCaseEntity>

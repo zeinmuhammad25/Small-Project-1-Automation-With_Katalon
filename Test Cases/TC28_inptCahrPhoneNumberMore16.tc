@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Enter the character phone number input on the shopping cart exceeds 16 digits</description>
+   <name>TC28_inptCahrPhoneNumberMore16</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b13f3f87-7fca-4a86-87d4-dd102cc3f326</testCaseGuid>
+</TestCaseEntity>

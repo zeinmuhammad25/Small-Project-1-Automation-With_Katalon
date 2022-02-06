@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Make sure the checkout button is clickable</description>
+   <name>TC04_vrfy_btn_checkout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c5bb42d8-cc6f-4774-bb59-580107f8ad91</testCaseGuid>
+</TestCaseEntity>

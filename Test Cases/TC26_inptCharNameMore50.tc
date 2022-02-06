@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Entering the name character input on the shopping cart exceeds 50 letters</description>
+   <name>TC26_inptCharNameMore50</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee732918-841a-47d6-8b36-7b7ca7ab5cd1</testCaseGuid>
+</TestCaseEntity>

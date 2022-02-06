@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Make sure if you don't fill in the entire input on the shopping cart then you can't proceed with the payment</description>
+   <name>TC05_notInput_dataShipngCart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>97bf356a-0410-4402-98f6-f9123a3984ce</testCaseGuid>
+</TestCaseEntity>

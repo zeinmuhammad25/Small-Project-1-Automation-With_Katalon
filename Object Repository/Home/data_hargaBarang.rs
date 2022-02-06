@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>data_hargaBarang</name>
+   <tag></tag>
+   <elementGuidId>e993b6de-29ee-498e-812c-f6211b4b210d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@data-reactid='.0.0.0.2.0.0.2.1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@data-reactid='.0.0.0.2.0.0.2.1']</value>
+   </webElementProperties>
+</WebElementEntity>

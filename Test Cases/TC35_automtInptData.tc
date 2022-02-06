@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The data on the shopping cart has been directly inputted in the data input field</description>
+   <name>TC35_automtInptData</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>20fd3b96-9d90-4420-8710-88c9f723f4fb</testCaseGuid>
+</TestCaseEntity>

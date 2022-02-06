@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Entering the email character input on the shopping cart exceeds 30 letters</description>
+   <name>TC27_inptCharEmailMore30</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aa68e5b6-1fee-417b-bdc1-b98c2451ed53</testCaseGuid>
+</TestCaseEntity>

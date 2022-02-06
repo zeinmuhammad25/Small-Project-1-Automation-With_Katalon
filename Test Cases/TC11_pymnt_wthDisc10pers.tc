@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Process the payment with 10% off and verify the total price</description>
+   <name>TC11_pymnt_wthDisc10pers</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2dd65b2-a578-481d-864e-e349f5b671ab</testCaseGuid>
+</TestCaseEntity>

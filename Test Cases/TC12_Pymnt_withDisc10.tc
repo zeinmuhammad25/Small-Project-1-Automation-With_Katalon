@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Process payment with a discount of Rp.10 and verify the total price</description>
+   <name>TC12_Pymnt_withDisc10</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>275243a9-6c13-4feb-888a-7e22582a518f</testCaseGuid>
+</TestCaseEntity>

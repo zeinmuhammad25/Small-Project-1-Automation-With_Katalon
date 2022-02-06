@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Make sure the buy now button is clickable</description>
+   <name>TC01_vrfy_btn_buyNow</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>820e5196-8485-4861-89a1-309a06143e3c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Process payment with a discount of Rp.2.000 and verify the total price</description>
+   <name>TC13_paymnt_withDisc2000</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7b9a21af-814e-46ef-ac0b-f0e3ea0a9aaf</testCaseGuid>
+</TestCaseEntity>

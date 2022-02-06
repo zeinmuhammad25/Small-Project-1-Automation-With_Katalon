@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_harga</name>
+   <tag></tag>
+   <elementGuidId>52b43bb7-97e0-4e75-9979-68d18def1733</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-reactid='.0.0.1.0.1.0.1.0:$1.2.0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-reactid='.0.0.1.0.1.0.1.0:$1.2.0']</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the address display in the order summary</description>
+   <name>TC25_displayAddress</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5b410c8-d7d1-4fe8-8d43-4d3e127eb578</testCaseGuid>
+</TestCaseEntity>
