@@ -1,0 +1,101 @@
+/html/body/iframe
+/html/body/iframe
+
+TC 19!!!((loop)
+
+TC32 tak terbukti di katalon
+
+
+test case yang belum = 
+-(TC22) mengganti email di frame credit/debit card dengan character yang tidak sesuai akan memunculkan notif
+-(TC23)Memasukkan card number, expire date dan cvv dengan kartu kredit yang bermasalah  
+- (34)verify button close pada notifikasi gagal dan notifikasi berhasil melakukan payment
+
+noted bug :
+
+-(24)button x pada orde summary langsung terlink ke halaman utama
+
+-(25)ui tampilan addres pada shipping detail dibutuhkan adanya titik atau koma untuk membedakan antara address, city dan postal code
+-(26)membatasi inputan charakter nama pada shopping cart sebanyak 50 huruf
+-(27)membatasi inputan charakter email pada shopping cart sebanyak 50 huruf
+-(28)membatasi inputan charakter phone number pada shopping cart sebanyak 16 digit
+-(29)membatasi inputan charakter pada city pada shopping cart sebanyak 85 huruf
+-(30)membatasi inputan charakter postal code pada shopping cart sebanyak 5 digit dan hanya bisa mengisi dengan inputan angka
+
+-(31)jika pada salah satu inputan pada shopping cart diisi melebihi jumlah charakter pada setiap inputannya atau mengisi dengan inputan yang salah maka akan kembali ke halaman utama
+(seharusnya akan menunjukan inputan salah pada tempat inputan pengisian yang salah agar tidak mempersulit pengguna mengetahui inputan yang salah)
+
+-(32)suggest card number akan menigkuti jika user melakukan scroll
+-(33)adanya kolom inputan email pada halaman credit/debit card
+
+
+
+sudah (biasa):
+-(16)tidak menginput phone number pada shopping card dan akan mengisinya di credit_debitcard(sudah)
+-()tidak menginput email pada shopping cart
+-menunggu verifikasi tiket selama 5 menit
+-memasukkan inputan sebanyak 3 kali inputan secara perulangan pada inputan no kartu kredit akan muncul notif eror pada payment
+
+
+sudah (bug) :
+-jika tidak menginput password maka akan langsung menunjukkan transaksi gagal(sudah)
+-verifikasi keseluruhan button < dan memastikan akan kembali ke frame sebelumnya
+- setelah menutup browser dan membuka lagi halaman awal maka system akan gagal checkout
+
+
+
+
+//a[@class='list with-promo']/div[2]
+
+/html/body/div[3]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/div[1]/div[2]
+
+
+TC05 Belum bisa terrun (sudah)
+
+gagal :
+
+
+4911 1111 11111113
+01/25 123 112233
+
+
+bisa :
+
+4811 1111 11111114    
+01/25 123 112233
+
+
+/html/body/div[3]/div/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/div[1]/div[2]
+//*[@id="application"]/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/div[1]/div[2]
+//*[@id="application"]/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[1]/div[1]/div[2]
+
+pay now :
+//div[@id="application"]/div[1]/a/div[1]
+//div[@id="application"]/div[1]/a/div[1]/span
+//div[@id="application"]/div[1]/a/div[1]/span
+//span[@class='pop']
+
+//div[@class='content-text-block']/div[@class='col-xs-6']/div[1]/div[2]
+
+//div[@class='text-block']/div[.='name']/div
+
+//div[class=content-text-block'']/div[1]/div[1]/div[2]
+//div[.='Name']/following-sibling::div
+//div[.='Phone number']/following-sibling::div
+//div[.='Email']/following-sibling::div
+//div[.='Address']/following-sibling::div
+
+tc08
+allAddress = allAddress.replaaceAll("\\s+","")
+address2 = address2.replaaceAll("\\s+","")
+
+1. Open Browser
+2. Navigate to url "https://demo.midtrans.com/"
+3. Click button buy now
+4. Input amount
+4. Input all data
+5. Click button checkout
+
+
+lupa maksudnya :
+setelah melakukan proses transaksi gagal maka pada frame select payment akan muncul button x
